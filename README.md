@@ -3,4 +3,9 @@ This repository is filled with a collection of projects I had the opportunity to
 
 Every project is written as a **Jupyter Notebook**. In order to render these notebooks, we can use [nbviewer](https://nbviewer.jupyter.org/), a simple way to share Jupyter Notebooks.
 
-**TO VIEW PROJECTS**: Please head to this [link](https://nbviewer.jupyter.org/github/OmeRazaKhan/DataScience/tree/main/)
+## To View Projects
+1. Please head to this [link](https://nbviewer.jupyter.org/github/OmeRazaKhan/DataScience/tree/main/), which connects *nbviewer* with my GitHub account!
+2. Select a project, in this case, a *directory*, you want to explore!
+3. Click on the file ending in **.ipynb**
+
+That's it! Enjoy exploring my repository and I hope you learn a thing or two!
