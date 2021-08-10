@@ -6,6 +6,6 @@ Every project is written as a **Jupyter Notebook**. In order to render these not
 ## To View Projects :eyes:
 1. Please head to this [link](https://nbviewer.jupyter.org/github/OmeRazaKhan/DataCamp-DS-Track/tree/main/), which connects *nbviewer* with my GitHub account!
 2. Select a project, in this case, a *directory*, you want to explore!
-3. Click on the file ending in **.ipynb**
+3. Click on the file ending in **.ipynb**, to open a *Jupyter Notebook* in **Python**
 
 That's it! Enjoy exploring my repository and I hope you learn a thing or two!
